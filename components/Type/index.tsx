@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 
 type Props = {};
-const TYPE_DATA = ["觉知", "Awareness", "意識", "의식"];
+const TYPE_DATA = ["觉知", "Awareness", "意識啓発", "의식"];
 const TYPE_PERIOD = 2000;
 class TextType {
   el: HTMLSpanElement;
